@@ -1,6 +1,7 @@
 body{
     margin: 0px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    
 
 }
 h1{
@@ -29,7 +30,7 @@ section {
 .link-button{
     text-decoration: none;
     border: 2px solid;
-    border-color: orange;
+    border-color: rgb(255, 0, 0);
     padding: 10px 20px;
     color:rgb(10, 10, 10);
     border-radius: 5px;
@@ -69,4 +70,17 @@ footer p{
 }
 .exp-co{
     margin-left: 3%;
+}
+.half-width p {
+    padding-bottom: 15px;
+    font-size: 18px;
+}
+#dream-big h1 {
+    border-bottom: 5px solid red;
+    width: 28%;
+}
+.exprience-section h1 {
+    border-bottom: 5px solid red;
+    width: 12%;
+    
 }
